@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Rahul/jio-files/AIDS/Quarter%204/ML-ops/ML_ops_project/Gr-06_MLOPS_Project/Project%20Code/Gr-01_Notebooks/mlruns/382009864388007698/47d92050a6684bac9573cec6913e0869/artifacts
+end_time: 1742148984854
+entry_point_name: ''
+experiment_id: '382009864388007698'
+lifecycle_stage: active
+run_id: 47d92050a6684bac9573cec6913e0869
+run_name: DecisionTree
+run_uuid: 47d92050a6684bac9573cec6913e0869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742148976287
+status: 3
+tags: []
+user_id: HP

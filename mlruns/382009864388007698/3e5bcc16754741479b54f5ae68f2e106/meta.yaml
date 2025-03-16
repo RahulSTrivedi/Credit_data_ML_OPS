@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Rahul/jio-files/AIDS/Quarter%204/ML-ops/ML_ops_project/Gr-06_MLOPS_Project/Project%20Code/Gr-01_Notebooks/mlruns/382009864388007698/3e5bcc16754741479b54f5ae68f2e106/artifacts
+end_time: 1742148994789
+entry_point_name: ''
+experiment_id: '382009864388007698'
+lifecycle_stage: active
+run_id: 3e5bcc16754741479b54f5ae68f2e106
+run_name: RandomForest
+run_uuid: 3e5bcc16754741479b54f5ae68f2e106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742148984866
+status: 3
+tags: []
+user_id: HP
